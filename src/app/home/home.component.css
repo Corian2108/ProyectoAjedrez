@@ -1,0 +1,16 @@
+table{
+  height: 480px;
+  width: 480px;
+  border: solid 1px black;
+}
+
+td, tr{
+  width: auto;
+  height: auto;
+  border: solid 1px black;
+}
+
+tr{
+ margin: auto;
+ border: solid 1px black;
+}

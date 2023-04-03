@@ -1,0 +1,18 @@
+<p>Chess Works!</p>
+<div style="justify-content: center; align-items: center">
+  <table>
+    <thead>
+      <th *ngFor="let i of marcas[0]">{{ i }}</th>
+    </thead>
+    <tbody>
+      <td>
+        <tr *ngFor="let j of marcas[1]">
+          {{ j }}
+        </tr>
+      </td>
+      <td *ngFor="let item of tablero">
+        <tr *ngFor="let item2 of item"></tr>
+      </td>
+    </tbody>
+  </table>
+</div>
