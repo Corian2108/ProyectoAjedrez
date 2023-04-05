@@ -8,9 +8,18 @@ td, tr{
   width: auto;
   height: auto;
   border: solid 1px black;
+  text-align: center;
+  justify-content: center;
 }
 
 tr{
  margin: auto;
- border: solid 1px black;
+}
+
+.marca{
+  width: fit-content;
+}
+
+.black{
+  background-color: black;
 }

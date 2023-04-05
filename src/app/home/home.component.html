@@ -2,17 +2,16 @@
 <div style="justify-content: center; align-items: center">
   <table>
     <thead>
-      <th *ngFor="let i of marcas[0]">{{ i }}</th>
+      <tr>
+        <th *ngFor="let i of marcas">{{ i }}</th>
+      </tr>
     </thead>
     <tbody>
-      <td>
-        <tr *ngFor="let j of marcas[1]">
-          {{ j }}
-        </tr>
-      </td>
-      <td *ngFor="let item of tablero">
-        <tr *ngFor="let item2 of item"></tr>
-      </td>
+      <tr *ngFor="let row of tablero">
+        <td *ngFor="let cell of row" [ngClass]="{'marca': cell !== '', 'black': cell.color == 'black'}">
+          {{cell}}
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>

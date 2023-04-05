@@ -1,0 +1,425 @@
+[
+  [
+    {
+      "IdCelda": " ",
+      "Color": "white",
+      "Bloqueada": true
+    },
+    {
+      "IdCelda": "A",
+      "Color": "white",
+      "Bloqueada": true
+    },
+    {
+      "IdCelda": "B",
+      "Color": "white",
+      "Bloqueada": true
+    },
+    {
+      "IdCelda": "C",
+      "Color": "white",
+      "Bloqueada": true
+    },
+    {
+      "IdCelda": "D",
+      "Color": "white",
+      "Bloqueada": true
+    },
+    {
+      "IdCelda": "E",
+      "Color": "white",
+      "Bloqueada": true
+    },
+    {
+      "IdCelda": "F",
+      "Color": "white",
+      "Bloqueada": true
+    },
+    {
+      "IdCelda": "G",
+      "Color": "white",
+      "Bloqueada": true
+    },
+    {
+      "IdCelda": "H",
+      "Color": "white",
+      "Bloqueada": true
+    }
+  ],
+  [
+    {
+      "IdCelda": "1",
+      "Color": "white",
+      "Bloqueada": true
+    },
+    {
+      "IdCelda": "A1",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "B1",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "C1",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "D1",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "E1",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "F1",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "G1",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "H1",
+      "Color": "white",
+      "Bloqueada": false
+    }
+  ],
+  [
+    {
+      "IdCelda": "2",
+      "Color": "white",
+      "Bloqueada": true
+    },
+    {
+      "IdCelda": "A2",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "B2",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "C2",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "D2",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "E2",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "F2",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "G2",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "H2",
+      "Color": "black",
+      "Bloqueada": false
+    }
+  ],
+  [
+    {
+      "IdCelda": "3",
+      "Color": "white",
+      "Bloqueada": true
+    },
+    {
+      "IdCelda": "A3",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "B3",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "C3",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "D3",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "E3",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "F3",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "G3",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "H3",
+      "Color": "white",
+      "Bloqueada": false
+    }
+  ],
+  [
+    {
+      "IdCelda": "4",
+      "Color": "white",
+      "Bloqueada": true
+    },
+    {
+      "IdCelda": "A4",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "B4",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "C4",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "D4",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "E4",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "F4",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "G4",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "H4",
+      "Color": "black",
+      "Bloqueada": false
+    }
+  ],
+  [
+    {
+      "IdCelda": "5",
+      "Color": "white",
+      "Bloqueada": true
+    },
+    {
+      "IdCelda": "A5",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "B5",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "C5",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "D5",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "E5",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "F5",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "G5",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "H5",
+      "Color": "white",
+      "Bloqueada": false
+    }
+  ],
+  [
+    {
+      "IdCelda": "6",
+      "Color": "white",
+      "Bloqueada": true
+    },
+    {
+      "IdCelda": "A6",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "B6",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "C6",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "D6",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "E6",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "F6",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "G6",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "H6",
+      "Color": "black",
+      "Bloqueada": false
+    }
+  ],
+  [
+    {
+      "IdCelda": "7",
+      "Color": "white",
+      "Bloqueada": true
+    },
+    {
+      "IdCelda": "A7",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "B7",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "C7",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "D7",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "E7",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "F7",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "G7",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "H7",
+      "Color": "white",
+      "Bloqueada": false
+    }
+  ],
+  [
+    {
+      "IdCelda": "8",
+      "Color": "white",
+      "Bloqueada": true
+    },
+    {
+      "IdCelda": "A8",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "B8",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "C8",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "D8",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "E8",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "F8",
+      "Color": "black",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "G8",
+      "Color": "white",
+      "Bloqueada": false
+    },
+    {
+      "IdCelda": "H8",
+      "Color": "black",
+      "Bloqueada": false
+    }
+  ]
+]
