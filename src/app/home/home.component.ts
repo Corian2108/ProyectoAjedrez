@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 import { Celda } from '../interfaces/celda';
+import { TableroService } from '../services/tablero.service';
 
 @Component({
   selector: 'app-home',
@@ -21,7 +22,11 @@ export class HomeComponent implements OnInit {
     ['8', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '],
   ];
 
-  constructor() {}
+  constructor(private tabServ: TableroService) {}
 
-  ngOnInit(): void {}
+  ngOnInit() {
+    this.tabServ.getTablero().subscribe((resp) => {
+      console.log(resp);
+    });
+  }
 }
