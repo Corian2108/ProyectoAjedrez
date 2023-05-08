@@ -8,8 +8,11 @@
     </thead>
     <tbody>
       <tr *ngFor="let row of tablero">
-        <td *ngFor="let cell of row" [ngClass]="{'marca': cell !== '', 'black': cell.color == 'black'}">
-          {{cell}}
+        <td
+          *ngFor="let cell of row"
+          [ngClass]="{ marca: cell !== '', black: cell.Color == 'negro' }"
+        >
+          {{ cell.marca ? cell.IdCelda : '' }}
         </td>
       </tr>
     </tbody>

@@ -1,13 +1,11 @@
 export class Celda {
-
-  constructor(celda: string, color: string, bloqueada: boolean) {
+  constructor(celda: string, color: string, marc?: boolean) {
     this.IdCelda = celda;
-    this.Color = color
-    this.Bloqueada = bloqueada
+    this.Color = color;
+    this.marca = marc;
   }
 
-  IdCelda: string
-  Color: string
-  Bloqueada: boolean
-
+  IdCelda: string;
+  Color: string;
+  marca?: boolean;
 }
