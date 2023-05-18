@@ -8,4 +8,5 @@ export class Celda {
   IdCelda: string;
   Color: string;
   marca?: boolean;
+  Estado?: boolean
 }
